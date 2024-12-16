@@ -3,7 +3,7 @@
 body {
   background-image: url("pexels-didsss-3737713.jpg");
   font-family: Oxanium, sans-serif;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 main {
@@ -41,7 +41,7 @@ main {
 .education,
 .experience,
 .skills, .links, .contact-info, .name {
-    font-size: 30px;
+    font-size: 24px;
     background-color: rgba(255, 255, 255, 0.65);
     border-radius: 2px;
     margin: 25px 0px 25px auto;
